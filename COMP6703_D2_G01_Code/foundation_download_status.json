@@ -1,0 +1,19 @@
+{
+  "network_available": false,
+  "candidates": [
+    "BINEAI/EEGPT",
+    "LaBraM/LaBraM-base"
+  ],
+  "attempts": [
+    {
+      "repo": "BINEAI/EEGPT",
+      "ok": false,
+      "error": "URLError(OSError(101, 'Network is unreachable'))"
+    },
+    {
+      "repo": "LaBraM/LaBraM-base",
+      "ok": false,
+      "error": "URLError(OSError(101, 'Network is unreachable'))"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+numpy>=1.23
+scipy>=1.9
+pandas>=1.5
+scikit-learn>=1.1
+matplotlib>=3.6
+python-pptx>=0.6.21
+torch>=2.0
+timm>=0.9
+einops>=0.6
+linear-attention-transformer>=0.19

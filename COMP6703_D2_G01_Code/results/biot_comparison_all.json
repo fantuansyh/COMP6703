@@ -1,0 +1,5 @@
+[
+  {"model":"BIOT-PREST-16","n_channels":16,"alpha":1000,"rmse":8.4713459381,"r2":-0.0386988277},
+  {"model":"BIOT-SHHS+PREST-18","n_channels":18,"alpha":1000,"rmse":8.7769254107,"r2":-0.1149865345},
+  {"model":"BIOT-six-datasets-18","n_channels":18,"alpha":1000,"rmse":7.9217118637,"r2":0.0917134339}
+]
